@@ -1,1 +1,115 @@
 
+# 2024 年 MCM/ICM 历年真题
+
+本页面整理 2024 年美国大学生数学建模竞赛（MCM）与交叉学科建模竞赛（ICM）的六道官方真题，提供中英文题目名称、中文简介、官方 PDF 阅读与下载入口，以及相关资源。
+
+**官方真题总目录：** [COMAP 2024 MCM/ICM Problems](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/)
+
+## 一、真题总览
+
+| 题号 | 竞赛类别 | 英文题目 | 中文题目 |
+|---|---|---|---|
+| A | MCM | Resource Availability and Sex Ratios | 资源可用性与性别比例 |
+| B | MCM | Searching for Submersibles | 水下潜航器搜寻 |
+| C | MCM | Momentum in Tennis | 网球中的势头 |
+| D | ICM | Great Lakes Water Problem | 五大湖水资源管理问题 |
+| E | ICM | Sustainability of Property Insurance | 财产保险的可持续性 |
+| F | ICM | Reducing Illegal Wildlife Trade | 减少非法野生动物贸易 |
+
+## 二、官方 PDF 阅读与下载
+
+### A 题：资源可用性与性别比例
+
+**英文题目：** Resource Availability and Sex Ratios
+
+**题目简介：** 研究海七鳃鳗的性别比例如何受到幼体生长速度和食物资源可用性的影响，建立生态系统模型，分析性别比例变化对种群自身、其他物种及生态系统稳定性的影响。
+
+**主要方向：** 种群动力学、生态系统建模、微分方程、稳定性分析、敏感性分析。
+
+- [📖 在线阅读 A 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_A.pdf)
+- [⬇️ 下载 A 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_A.pdf)
+
+### B 题：水下潜航器搜寻
+
+**英文题目：** Searching for Submersibles
+
+**题目简介：** 为失去与母船通信或发生推进系统故障的载人水下潜航器建立位置预测模型，并设计搜索装备配置和搜寻策略，分析找到潜航器的概率如何随时间及搜索结果变化。
+
+**主要方向：** 运动学建模、随机过程、贝叶斯更新、搜索优化、不确定性分析。
+
+- [📖 在线阅读 B 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_B.pdf)
+- [⬇️ 下载 B 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_B.pdf)
+
+### C 题：网球中的势头
+
+**英文题目：** Momentum in Tennis
+
+**题目简介：** 以 2023 年温布尔登网球锦标赛男单决赛为背景，研究比赛过程中选手优势的变化，分析所谓的“势头”能否通过逐分比赛数据进行识别，并探索哪些因素可能与比赛走势的改变有关。
+
+**主要方向：** 数据分析、统计建模、时间序列、概率模型、变化点识别。
+
+- [📖 在线阅读 C 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_C.pdf)
+- [⬇️ 下载 C 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_MCM_Problem_C.pdf)
+- [🔎 查看 COMAP 官方题目及数据资源](https://www.comap.org/membership/member-resources/item/momentum-in-tennis)
+
+### D 题：五大湖水资源管理问题
+
+**英文题目：** Great Lakes Water Problem
+
+**题目简介：** 为美国与加拿大之间的五大湖水系建立动态网络模型，研究降水、蒸发、径流、气候变化及水坝调控等因素对湖泊水位的影响，在防洪、航运、生态保护和居民用水等相互冲突的需求之间寻求合理的水位管理方案。
+
+**主要方向：** 动态系统、网络流、控制理论、多目标优化、敏感性分析。
+
+- [📖 在线阅读 D 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_D.pdf)
+- [⬇️ 下载 D 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_D.pdf)
+
+**附加资源：** D 题官方 PDF 包含补充说明及数据文件名称。请先阅读原题中的文件说明，再从官方题目资源入口核对并获取对应数据。
+
+### E 题：财产保险的可持续性
+
+**英文题目：** Sustainability of Property Insurance
+
+**题目简介：** 研究极端天气和气候风险增加对财产保险行业的影响，分析保险公司盈利能力、保费可负担性、房屋所有者风险和保险保障缺口之间的矛盾，并提出兼顾保险行业与投保人利益的可持续方案。
+
+**主要方向：** 风险建模、统计分析、情景模拟、经济建模、多目标决策。
+
+- [📖 在线阅读 E 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_E.pdf)
+- [⬇️ 下载 E 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_E.pdf)
+- [🔎 查看 COMAP 官方题目资源](https://www.comap.org/membership/member-resources/item/sustainability-of-property-insurance)
+
+### F 题：减少非法野生动物贸易
+
+**英文题目：** Reducing Illegal Wildlife Trade
+
+**题目简介：** 设计一个为期五年的数据驱动项目，显著减少非法野生动物贸易。需要选择合适的项目委托方，提出具体行动方案，并建立模型说明方案可能产生的效果及其实施价值。
+
+**主要方向：** 数据驱动决策、资源优化、政策评估、影响分析、项目效果评价。
+
+- [📖 在线阅读 F 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_F.pdf)
+- [⬇️ 下载 F 题 PDF](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/problems/2024_ICM_Problem_F.pdf)
+- [🔎 查看 COMAP 官方题目资源](https://www.comap.org/membership/member-resources/item/reducing-illegal-wildlife-trade)
+
+## 三、真题整理进度
+
+| 整理项目 | 状态 |
+|---|---|
+| 官方题目名称 | 已核对 |
+| 官方 PDF 链接 | 已整理，建议逐一测试 |
+| 中文题目简介 | 初步整理 |
+| 官方配套数据 | 待进一步核对和下载 |
+| 中文题目全文翻译 | 待整理 |
+| 建模方法与关键词 | 待深入分析 |
+| 优秀论文与评审资料 | 待整理 |
+
+## 四、后续学习计划
+
+1. 下载并阅读六道官方真题。
+2. 为每道题整理中文全文、问题拆解和约束条件。
+3. 归纳模型假设、数学方法、算法和验证方式。
+4. 搜集官方允许公开访问的优秀论文及评审资料。
+5. 将统一格式扩展到其他年份，建立可持续维护的 MCM/ICM 真题库。
+
+## 五、版权与来源说明
+
+本项目为个人学习与备赛资料整理项目，与 COMAP 官方无隶属关系。原始题目及相关材料的版权归相应权利人所有。本页面优先链接官方原始资源，方便读者核对、阅读和获取资料。
+
